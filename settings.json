@@ -1,0 +1,10 @@
+{
+    "autoActivate": true,
+    "cl_yawspeed": 140.0,
+    "leftKey": 65,
+    "m_yaw": 0.02199999988079071,
+    "modifier": 0.20000001788139343,
+    "modifierKey": 16,
+    "rightKey": 68,
+    "updateRate": 1000.0
+}
