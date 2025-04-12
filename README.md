@@ -1,7 +1,6 @@
 # Shiz-Turnbinds
 ![WindowsTerminal_MY0e3wogyx](https://github.com/user-attachments/assets/2fd4dec8-7823-4a61-a4e1-182ae8cc1157)
 
-Brought to you by hang10.surf
 - smooth turnbinds for cs2 with strafe modifier
 - draggable always on top yaw adjust (click and scroll to increase/decrease)
 - auto activate/deactivate when opening cs2
