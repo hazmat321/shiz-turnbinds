@@ -127,10 +127,27 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="ConsoleUI.cpp" />
+    <ClCompile Include="CS2Monitor.cpp" />
+    <ClCompile Include="FloatingUI.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MouseSimulation.cpp" />
+    <ClCompile Include="NetworkUtils.cpp" />
+    <ClCompile Include="Settings.cpp" />
+    <ClCompile Include="Utils.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ConsoleUI.h" />
+    <ClInclude Include="CS2Monitor.h" />
+    <ClInclude Include="FloatingUI.h" />
+    <ClInclude Include="MouseSimulation.h" />
+    <ClInclude Include="NetworkUtils.h" />
+    <ClInclude Include="PlayerUnits.h" />
+    <ClInclude Include="Settings.h" />
+    <ClInclude Include="Utils.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
