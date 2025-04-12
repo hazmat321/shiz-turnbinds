@@ -18,3 +18,6 @@ use arrow keys to move, side arrow keys to adjust from console menu
 ## VAC
 This does not read/write/modifying anything from the game. I think it's probably more safe than using high DPI mouse in matchmaking..
 
+Coffee sounds nice.
+https://ko-fi.com/hang10
+
