@@ -1,5 +1,5 @@
 # Shiz-Turnbinds
-![image](https://github.com/user-attachments/assets/2f11117c-8424-4e1e-909c-05e47f2eac5d)
+![WindowsTerminal_MY0e3wogyx](https://github.com/user-attachments/assets/2fd4dec8-7823-4a61-a4e1-182ae8cc1157)
 
 Brought to you by hang10.surf
 - smooth turnbinds for cs2 with strafe modifier
