@@ -7,6 +7,9 @@
 - customizable binds for +left, +right, strafe modifier
 - auto saves presets, auto save yawspeed draggable location
 
+## NOTE
+- this requires no additional installs, and it doesn't require administrator to run
+
 ## how to use
 - download
 - put .exe in folder named whatever you want
