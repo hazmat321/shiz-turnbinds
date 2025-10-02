@@ -79,7 +79,7 @@ void ConsoleUI::writeAt(COORD pos, const std::string& text, bool clearLine) {
 
 void ConsoleUI::updateSettingsDisplay(int selectedOption, const SimulationSettings& settings) {
     const char* options[] = { "auto-activate", "update rate (hz)", "m_yaw", "cl_yawspeed", "+left key", "+right key", "modifier key", "modifier", "auto-activate toggle key" };
-    for (int i = 0; i < 9; ++i) {
+    for (int i = 0; i < sizeof(options) / sizeof(options[0]); ++i) {
         COORD pos = { 0, static_cast<SHORT>(settingsStartPos_.Y + i) };
         std::string prefix = (i == selectedOption) ? "> " : "  ";
         std::string value;
